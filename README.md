@@ -1,2 +1,2 @@
 # meuip
-show your ip adress 
+show your ip adress on command line
